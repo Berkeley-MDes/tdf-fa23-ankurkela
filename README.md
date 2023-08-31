@@ -7,7 +7,10 @@ I began by watching tutorials on the basics of Rhino - understanding the interfa
 
 <img width="800" alt="watching and creating with rhino" src="https://github.com/Berkeley-MDes/tdf-fa23-ankurkela/blob/14d2d29e48846e5bf416b9bc97571cec9b4fc5c2/weekly-reports/rhino%20practice%202.png">
 
-## Trial by Fire
+## Trial by Fire 
+
+<img width="400" alt="dog in fire" src="https://media.giphy.com/media/UKF08uKqWch0Y/giphy.gif)">
+
 For our first assignment, we were asked to either laser cut or 3D print a computationally designed cell phone stand (for users to self-record videos). I never laser cut or 3D printed before, so I approached the project with a little nervousness (scared that I wouldn't know what to do or that I would make a mistake). I decided to just focus on executing a simple laser cut of the pre-designed 2D graphic. After rewatching a tutorial video on laser cutting and taking some diligent notes, I felt a lot more confident on what I had to do before stepping into the Lab. 
 
 While at the Lab, I set up the Adobe Illustrator file and exported it to the laser cutting software on the Lab desktop. Along the way, some of my classmates pointed out that I needed to make a few adjustments, such as scaling the size of the 2D graphics to the appropriate size for my phone. After double checking all my settings and ensuring that my design would print in the appropriate place on my piece of scrap wood, I hit the green button! The process began and I was excited to see that it was being executed as expected (check out the video below!). Once the job was done, I switched off the exhuast of the machine and pulled my piece of scrap wood out. When I pulled it out, I realized it was cut but only on one side 🥲 I wasn't sure what I did wrong, so my classmates suggested making a few more adjustments. 
@@ -19,7 +22,7 @@ The second time around, I realized that doing a test cut is super critical if yo
 
 I did not consult a design specialist since I was running out of time but I would do so next time. My suspicion was that the laser might not have been as sharp, as my classmates used the same settings on their respecitve laser cutters and were able to get a proper cut. Anyway, I decided to just use a box cutter to get the job done. I spent a little over 30 minutes cutting through the wood to get my final product and some wood-stained hands on the side.  
 
-<img width="800" height="600" alt="resorting to box cutting" src="https://github.com/Berkeley-MDes/tdf-fa23-ankurkela/blob/6831e2536589d810fd132789aaa7971d0ea5262b/weekly-reports/boxcutting.jpg">
+<img width="400" alt="resorting to box cutting" src="https://github.com/Berkeley-MDes/tdf-fa23-ankurkela/blob/6831e2536589d810fd132789aaa7971d0ea5262b/weekly-reports/boxcutting.jpg">
 
 ## Hopping around in Grasshopper 🪲
 
