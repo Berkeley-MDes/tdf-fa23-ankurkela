@@ -17,6 +17,16 @@ I did not consult in design specialist since I was running out of time but I wou
 ## Hopping around in Grasshopper 
 Later on, I experimented a bit on Grasshopper because I was curious to learn how to customize files. I spent some time navigating the interface and got to the stage where I discovered the control panel where you could specify dimensions like your phone width, phone length, etc and the 2D file would adjust accordingly to fit your phone perfectly. The ability to modualarize a design file without needing to recreate the whole thing is a life-saver and I hope to continue playing around in this tool to understand how this works in practice, and then how to set up structures to do this for other 2D / 3D designs in the future. 
 
+## Observations and Speculations 
+
+reflect on the experience of exploring a procedural model whose output is a cell phone stand design in Rhino
+Consider: What other contextual observations would be useful to capture?
+Consider: What other evaluations of results would be useful to provide as feedback?
+Consider: Are there points in the process where you think AI…
+Could be used to assist?
+Could be trained on input and output?
+Other?
+
 
 
 
