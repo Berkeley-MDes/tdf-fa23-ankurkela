@@ -9,7 +9,7 @@ I began by watching tutorials on the basics of Rhino - understanding the interfa
 
 ## Trial by Fire 
 
-<img width="400" alt="dog in fire" src="https://media.giphy.com/media/UKF08uKqWch0Y/giphy.gif)">
+<img width="400" alt="dog in fire" src="https://media.giphy.com/media/UKF08uKqWch0Y/giphy.gif">
 
 For our first assignment, we were asked to either laser cut or 3D print a computationally designed cell phone stand (for users to self-record videos). I never laser cut or 3D printed before, so I approached the project with a little nervousness (scared that I wouldn't know what to do or that I would make a mistake). I decided to just focus on executing a simple laser cut of the pre-designed 2D graphic. After rewatching a tutorial video on laser cutting and taking some diligent notes, I felt a lot more confident on what I had to do before stepping into the Lab. 
 
