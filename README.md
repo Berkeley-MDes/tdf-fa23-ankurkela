@@ -38,6 +38,8 @@ While the product is in the hands of users, I think it would be important to set
 
 'Till next time. 
 
+![phonestandinaction](https://github.com/Berkeley-MDes/tdf-fa23-ankurkela/blob/5d3d29f498bb146f07a518fdbaa31c6c1edfb6b6/weekly-reports/phonestandinaction.jpg)
+
 
 Consider: What other evaluations of results would be useful to provide as feedback?
 
