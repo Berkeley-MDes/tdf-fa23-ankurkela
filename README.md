@@ -8,9 +8,9 @@ I began by watching tutorials on the basics of Rhino - understanding the interfa
 ## Trial by Fire
 For our first assignment, we were asked to either laser cut or 3D print a computationally designed cell phone stand (for users to self-record videos). I never laser cut or 3D printed before, so I approached the project with a little nervousness (scared that I wouldn't know what to do or that I would make a mistake). I decided to just focus on executing a simple laser cut of the pre-designed 2D graphic. After rewatching a tutorial video on laser cutting and taking some diligent notes, I felt a lot more confident on what I had to do before stepping into the lab. 
 
-While at the Lab, I set up my Adobe Illustrator file and exported it to the laser cutting software on the lab desktop. Along the way, some of my classmates pointed out that I needed to make a few adjustments, such as scaling the size of the 2D graphics to the appropriate size for my phone. After double checking all my settings and ensuring that my design would print in the appropriate place on my piece of scrap wood by using the pointing tool, I hit the green button! The process began and I was excited to see that it was being executed as expected. Once the job was done, I switched off the exhuast of the machine and pulled my piece of scrap wood out. When I pulled it out, I realized it was cut but only on one side :'( I wasn't sure what I did wrong, so my classmates suggested making a few more adjustments. 
+While at the Lab, I set up my Adobe Illustrator file and exported it to the laser cutting software on the lab desktop. Along the way, some of my classmates pointed out that I needed to make a few adjustments, such as scaling the size of the 2D graphics to the appropriate size for my phone. After double checking all my settings and ensuring that my design would print in the appropriate place on my piece of scrap wood by using the pointing tool, I hit the green button! The process began and I was excited to see that it was being executed as expected. Once the job was done, I switched off the exhuast of the machine and pulled my piece of scrap wood out. When I pulled it out, I realized it was cut but only on one side 🥲 I wasn't sure what I did wrong, so my classmates suggested making a few more adjustments. 
 
-The second time around, I realized that doing a test cut is super critical if you want to save time and materials. We slowed down the speed at which the laser cut through the material and increased the quality settings of the cut. I quickly created a new file on Illustrator containing a small red rectangle, exported, and sent the print job. Success! The laser cut through the wood completely. I continued by making the same adjustment settings to my cell phone stand and printed again. The laser cut slower, which I learned helps dig into the material further since it spends more time on any specific point. Took the scrap wood out once the job completed, but it didn't cut through again :'( :'( 
+The second time around, I realized that doing a test cut is super critical if you want to save time and materials. We slowed down the speed at which the laser cut through the material and increased the quality settings of the cut. I quickly created a new file on Illustrator containing a small red rectangle, exported, and sent the print job. Success! The laser cut through the wood completely. I continued by making the same adjustment settings to my cell phone stand and printed again. The laser cut slower, which I learned helps dig into the material further since it spends more time on any specific point. Took the scrap wood out once the job completed, but it didn't cut through again 😭
 
 I did not consult in design specialist since I was running out of time but I would do so next time. My suspicion was that the laser might not have been as sharp, as my classmates used the same settings on their respecitve laser cutters and were able to get a proper cut. Anyway, I decided to just use a box cutter to get the job done. I spent a little over 30 minutes cutting through the wood to get my final product! 
 
@@ -19,9 +19,22 @@ Later on, I experimented a bit on Grasshopper because I was curious to learn how
 
 ## Observations and Speculations 
 
-reflect on the experience of exploring a procedural model whose output is a cell phone stand design in Rhino
 Consider: What other contextual observations would be useful to capture?
+
+### Other Contextual Parameters to Consider
+In class, we discussed some of the parameters included in the extensive grasshopper file including phone dimensions, user body characteristics, and capturing a point cloud of the users' movements / activity. In addition, I think understanding the user's self-recording experience by documenting parameters like distance from phone, depth of vision, etc could help create a very personalized experience. In addition, I can imagine a user may want to adjust the phone to different angles based on the specific activity they are performing. For example, some may require a close-in shot or a shot where the phone isn't meant to be perfectly flat. Therefore, including some flexibility in the design for the user to adjust the stand's modualirty will help them capture many different angles. 
+
+### Adding AI to the Mix
+We can leverage AI in analyzing vast amounts of self-recorded video data. If designing this product for scale, I would hope to test the product with a diverse group of creators, making sure to include a sample of people with different heights, range of motion, hobbies or activities, recording setting, and so on. Based on the data, my next step would be to leverage AI to categorize similar videos together and help define the common charactertistics of each category; in addition, to challenging the AI to build a model that helps fit the needs of every individual or the individual who requires several unique parameters. 
+
+While the product is in the hands of users, I think it would be important to set up data capture mechanisms to understand the users' live experience. If there is a way to document when the users activity exits the frame of the video or the number of times the user needs to make an adjustment of the stand, we can document areas of improvement for further iteration. 
+
+'Till next time. 
+
+
 Consider: What other evaluations of results would be useful to provide as feedback?
+
+
 Consider: Are there points in the process where you think AI…
 Could be used to assist?
 Could be trained on input and output?
