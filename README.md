@@ -35,6 +35,6 @@ We can leverage AI in analyzing vast amounts of self-recorded video data. If des
 
 While the product is in the hands of users, I think it would be important to set up data capture mechanisms to understand the users' live experience. If there is a way to document when the users activity exits the frame of the video or the number of times the user needs to make an adjustment of the stand, we can document areas of improvement for further iteration. 
 
-'Till next time. 
+'Till next time. See my boy in action below. 
 
 <img width="800" alt="phone stand in action" src="https://github.com/Berkeley-MDes/tdf-fa23-ankurkela/blob/5d3d29f498bb146f07a518fdbaa31c6c1edfb6b6/weekly-reports/phonestandinaction.jpg">
