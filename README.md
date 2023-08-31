@@ -12,7 +12,8 @@ For our first assignment, we were asked to either laser cut or 3D print a comput
 
 While at the Lab, I set up my Adobe Illustrator file and exported it to the laser cutting software on the lab desktop. Along the way, some of my classmates pointed out that I needed to make a few adjustments, such as scaling the size of the 2D graphics to the appropriate size for my phone. After double checking all my settings and ensuring that my design would print in the appropriate place on my piece of scrap wood by using the pointing tool, I hit the green button! The process began and I was excited to see that it was being executed as expected. Once the job was done, I switched off the exhuast of the machine and pulled my piece of scrap wood out. When I pulled it out, I realized it was cut but only on one side 🥲 I wasn't sure what I did wrong, so my classmates suggested making a few more adjustments. 
 
-![laser cutting in action](https://www.youtube.com/shorts/iMp4A9I7sUw)
+[![Laser Cutting in action](https://img.youtube.com/vi/iMp4A9I7sUwmaxresdefault.jpg)](https://www.youtube.com/shorts/iMp4A9I7sUw)
+
 
 The second time around, I realized that doing a test cut is super critical if you want to save time and materials. We slowed down the speed at which the laser cut through the material and increased the quality settings of the cut. I quickly created a new file on Illustrator containing a small red rectangle, exported, and sent the print job. Success! The laser cut through the wood completely. I continued by making the same adjustment settings to my cell phone stand and printed again. The laser cut slower, which I learned helps dig into the material further since it spends more time on any specific point. Took the scrap wood out once the job completed, but it didn't cut through again 😭
 
