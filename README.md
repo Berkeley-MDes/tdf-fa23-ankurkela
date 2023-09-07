@@ -1,6 +1,6 @@
 # Weekly Report #2 - Grasshopper and 3D Printing. 
 
-## Life as a Baby Grasshopper 
+## Life as a Baby Grasshopper and Youtube Videos as 2x speed
 
 This week, I focused on understanding the interface of Grasshopper and learning how to make adjustments to the parametric model of the cell phone stand. 
 
