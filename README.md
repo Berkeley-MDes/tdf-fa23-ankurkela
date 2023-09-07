@@ -1,3 +1,18 @@
+# Weekly Report #2 - Grasshopper and 3D Printing. 
+
+This week, I focused on understanding the interface of Grasshopper and learning how to make adjustments to the parametric model of the cell phone stand. 
+
+I was quite intimiated by Grasshopper as a software. It wasn't very intuitive, at the beginning, and I was lost on all the available features and ways to navigate. So I decided it might be important to learn the basics. I watched a youtube tutorial series, recommended by the instructor team, by Parametric Camp. These were really helpful in helping me understand how Grasshopper works at a fundamental level and understanding ways to customize the software interface to make it easier to use. 
+
+Later on, I followed along with TJ's video tutorial of the simplified cell phone stand model. I watched half the video and recreated what TJ was doing on screen. I adjusted the model parameters to fit my cell phone dimensions and preferred viewing angle, and exported the file to 3D print. 
+
+At the Makerspace, I installed the Cura Software and the custom Jacob profiles to print on the Prusa printers. Cody, one of the design specialists, showed and explained the different steps involved in preparing for a print. He pointed out that most of the defaults configured by the embedded Jacob profile helped save many steps, and recommended to use a 'gyroid' infill to use less material and also to include strength & flexibility into the 3D strucutre. After configuring the specific parameters, Cody explained that the file which Prusa uses as input to print the 3D asset is in the form of G-Code (which stands for Geometry code). This file includes a set of different categories of instructions, which tells the "pointers" of the 3D printers which points to make rapid movements towards in the 3D plane space (G0), and where to cut, make incisions, or add material (G1). 
+
+The print is supposed to take 8 hours long, so it is still currently in the process of being completed. I hope to see the final product tomorrow. 
+
+
+
+
 # Weekly Report #1 - Rhino, Laser Cutting, and Getting my Hands Dirty. 
 
 ## Hmm, maybe I can do this design thing?
