@@ -21,6 +21,7 @@ At the Makerspace, I installed the Cura Software and the custom Jacob profiles t
 
 The print is supposed to take 8 hours long, so it is still currently in the process of being completed. I hope to see the final product tomorrow. 
 
+[![3D Printing in Action](https://img.youtube.com/vi/c0k_OWcKVv0maxresdefault.jpg)](https://www.youtube.com/shorts/c0k_OWcKVv0)
 
 ## Reflections on Computational Design for Larger Systems 
 
