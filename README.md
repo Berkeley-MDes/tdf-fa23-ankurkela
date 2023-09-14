@@ -1,5 +1,10 @@
 # Weekly Report #3 - Building a 3D Toiletry Holder 
 
+FYI - check out my 3D printed stand which I forgot to share in the last update. 
+
+<img width="800" alt="3d print phone stand" src="https://github.com/Berkeley-MDes/tdf-fa23-ankurkela/blob/6a45b592ef4c01e50252c1b27ed60a8cfd6120ed/weekly-reports/IMG_8044.jpg
+">
+
 ## Ideation and Sketching
 
 Prior to this experience, I never designed something new in any 3D modeling software but I was eager to ‘learn by experimentation’ by modeling a custom 3D asset from scratch. I decided to create a toiletry holder as I recently moved to a new apartment and am struggling with an unorganized sink counter. To begin, I looked up images online for inspiration on what I could build.
