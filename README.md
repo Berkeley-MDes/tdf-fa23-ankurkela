@@ -2,8 +2,7 @@
 
 FYI - check out my 3D printed stand which I forgot to share in the last update. 
 
-<img width="800" alt="3d print phone stand" src="https://github.com/Berkeley-MDes/tdf-fa23-ankurkela/blob/6a45b592ef4c01e50252c1b27ed60a8cfd6120ed/weekly-reports/IMG_8044.jpg
-">
+<img width="800" alt="3d print phone stand" src="https://github.com/Berkeley-MDes/tdf-fa23-ankurkela/blob/6a45b592ef4c01e50252c1b27ed60a8cfd6120ed/weekly-reports/IMG_8044.jpg">
 
 ## Ideation and Sketching
 
