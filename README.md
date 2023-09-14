@@ -11,6 +11,8 @@ Prior to this experience, I never designed something new in any 3D modeling soft
 
 I picked the design that I thought I could create parametric adjustments for in Grasshopper, and proceeded to sketch the design on paper before creating the model on the software. Sketching helps me understand the different parts or components of a 3D asset and activates my thinking process on how I can begin to design the model on Grasshopper. See the image below. 
 
+<img width="800" alt="toiletry holder sketch" src="https://github.com/Berkeley-MDes/tdf-fa23-ankurkela/blob/41888a544154b6d77e7925e4b8eca5add6f35060/weekly-reports/IMG_8045.jpg">
+
 ## Building the Model
 
 I began with creating the outer boundary for the top and bottom “shelves” of the asset. In Rhino, I used the Curve tool to draw the outline then connected it to Grasshopper from where I could make more adjustments. In Grasshopper, I used the ‘Offset Curve’ and ‘Extrude’ tool to add thickness and height to my curve and connected both using the ‘Boundary’ tool. 
