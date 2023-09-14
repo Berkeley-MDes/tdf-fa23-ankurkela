@@ -1,3 +1,38 @@
+# Weekly Report #3 - Building a 3D Toiletry Holder 
+
+## Ideation and Sketching
+
+Prior to this experience, I never designed something new in any 3D modeling software but I was eager to ‘learn by experimentation’ by modeling a custom 3D asset from scratch. I decided to create a toiletry holder as I recently moved to a new apartment and am struggling with an unorganized sink counter. To begin, I looked up images online for inspiration on what I could build.
+
+I picked the design that I thought I could create parametric adjustments for in Grasshopper, and proceeded to sketch the design on paper before creating the model on the software. Sketching helps me understand the different parts or components of a 3D asset and activates my thinking process on how I can begin to design the model on Grasshopper. See the image below. 
+
+## Building the Model
+
+I began with creating the outer boundary for the top and bottom “shelves” of the asset. In Rhino, I used the Curve tool to draw the outline then connected it to Grasshopper from where I could make more adjustments. In Grasshopper, I used the ‘Offset Curve’ and ‘Extrude’ tool to add thickness and height to my curve and connected both using the ‘Boundary’ tool. 
+
+Next, I worked on creating the compartments within the rectangular part. One compartment had to be bigger than the rest and this was specifically designed to place my large tube of toothpaste, but for the rest I wanted the same size and the ability to easily configure the number of compartments in Grasshopper. To do this, I created a box, then deconstructed it to extract the individual lines that made up the length and width of the box. I calculated the distance of each line and used the ‘divide’ tool to split them into equal parts. Finally, I used the ‘Rectangular (RecGrid)’ tool to create a baseline grid that would divide my larger box into equal sized rectangles. 
+
+Next, I created two side stands by following a similar process above of creating a curve and then using the ‘extrude’ tool to add height. I wanted to make sure the stand height and top shelf height were dependent on each other, so that you could easily adjust the height of the stand and the shelf would follow. By using the ‘solid union’ tool, I joined all the boxes involved in creating the bottom shelf and replicated that for the top shelf. Then, I used the ‘Move’ and ‘Unit Z’ tool to change the height of the top shelf. I connected the slider I used to adjust the height of the stand to the factor input for the ‘Unit Z’ tool. 
+
+## Final Model (still aways to go!)
+
+I could not find the time to 3D print the model before submitting the report; however, the final design is close to ready. There are still a few adjustments that need to be made to ensure the model will be printed correctly, and may require a review from a design specialist or instructor. You can find images of the inspiration design and custom model in Rhino below. 
+
+## Personal Challenges and Speculations
+
+Given that a lot of these software tools and methods were new to me, this project was a bit challenging and required a lot of trial by failure. I really hoped to build something that was personal and useful, and this required a lot of time spent in the Jacobs Makerspace, watching external Youtube tutorials, navigating online Grasshopper-related threads, and collaborating with my classmates. 
+
+From the Computational Design Stack, the two challenges I took on was learning how to create equal-dimensioned grids by layering a lot of mathematical logic to deconstruct shapes into lines. This involved a few hours of figuring out the right elements to use, and some assistance from a design specialist in the Lab. In addition, I learned how to connect two different curves or elements together so that they could work synchronistically. In the example mentioned above, I was able to connect the height of the stand to the Z unit position of the top shelf in order to customize the overall holder’s height. Even though I was not able to meet my eventual goal of 3D printing the stand, I learnt a lot about how one can use parametric modeling to create interesting 2D or 3D assets to solve for more complex design problems. 
+
+As far as next steps go, I hope to complete the printing of the toiletry holder so I can actually use it in my bathroom! I anticipate that the 3D print may not be perfect, so I hope to test to see if there were any other adjustments I could make to the model to either simplify its construction or to use less material / resources in printing the 3D stand.  
+
+The discipline of Computational Design allows designers to tackle complexity by building exploration and flexibility into their creation process. More specifically, computational design aligns incredibly well with the human-centered notion of iterative design. By building in a set of rules and sequence of operations into your design, one can easily and quickly change their product to meet new specifications. In the context of user testing, parametric modeling can close the gap between building and testing a product as new constraints are defined; similarly, it can provide the affordance for a user to customize a product to their specific needs. This level of modularity can minimize the amount of disruption in a design process where market needs are evolving at a rapid pace and in which the design recognizes or acknowledges the diversity of experiences in their users. Pairing this discipline with inclusive design, which takes into consideration the diversity of human experiences, is something that I am interested in exploring further in subsequent projects in this class. 
+
+I would like to thank Cody Glen, Divya Srinivasan, LingXiu, Gia Kirk for their assistance in developing the assets above which facilitated my learning of using these new tools. 
+
+
+
+
 # Weekly Report #2 - Grasshopper and 3D Printing. 
 
 ## Life as a Baby Grasshopper and Youtube Tutorials at 2x speed
