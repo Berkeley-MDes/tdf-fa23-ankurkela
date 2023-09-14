@@ -20,11 +20,17 @@ I began with creating the outer boundary for the top and bottom “shelves” of
 
 Next, I worked on creating the compartments within the rectangular part. One compartment had to be bigger than the rest and this was specifically designed to place my large tube of toothpaste, but for the rest I wanted the same size and the ability to easily configure the number of compartments in Grasshopper. To do this, I created a box, then deconstructed it to extract the individual lines that made up the length and width of the box. I calculated the distance of each line and used the ‘divide’ tool to split them into equal parts. Finally, I used the ‘Rectangular (RecGrid)’ tool to create a baseline grid that would divide my larger box into equal sized rectangles. 
 
+<img width="800" alt="grasshopper visual programming" src="https://github.com/Berkeley-MDes/tdf-fa23-ankurkela/blob/0ee8ab8b138e3709d3f5d9c9e730ebe4a971a604/weekly-reports/Screen%20Shot%202023-09-14%20at%2010.32.23%20AM.png">
+
 Next, I created two side stands by following a similar process above of creating a curve and then using the ‘extrude’ tool to add height. I wanted to make sure the stand height and top shelf height were dependent on each other, so that you could easily adjust the height of the stand and the shelf would follow. By using the ‘solid union’ tool, I joined all the boxes involved in creating the bottom shelf and replicated that for the top shelf. Then, I used the ‘Move’ and ‘Unit Z’ tool to change the height of the top shelf. I connected the slider I used to adjust the height of the stand to the factor input for the ‘Unit Z’ tool. 
+
+<img width="800" alt="3D toiletry stand" src="https://github.com/Berkeley-MDes/tdf-fa23-ankurkela/blob/0ee8ab8b138e3709d3f5d9c9e730ebe4a971a604/weekly-reports/Screen%20Shot%202023-09-14%20at%2011.19.56%20AM.png">
 
 ## Final Model (still aways to go!)
 
 I could not find the time to 3D print the model before submitting the report; however, the final design is close to ready. There are still a few adjustments that need to be made to ensure the model will be printed correctly, and may require a review from a design specialist or instructor. You can find images of the inspiration design and custom model in Rhino below. 
+
+<img width="800" alt="3D toiletry holder" src="https://github.com/Berkeley-MDes/tdf-fa23-ankurkela/blob/0ee8ab8b138e3709d3f5d9c9e730ebe4a971a604/weekly-reports/Screen%20Shot%202023-09-14%20at%2011.31.04%20AM.png">
 
 ## Personal Challenges and Speculations
 
