@@ -8,7 +8,7 @@ I spent time over the weekend compiling my final report and adding a few specula
 
 ## Next on the Menu...
 
-For the second project, we are exploring 'The Digital Ecosystem'. This is an opportunity to use microcontrollers to manipulate or functionalize a physical product or experience. This will involve a back-and-forth process of setting up the hardware components and programming specific instructions in software. I am excited to explore this space as it is very new but seems to have a lot of interesting applications. Specifically, I would love to explore the IoT spcae and explore ways to add intelligence to ordinary physical products that can be responsive to human communication via voice, touch, or vision. 
+For the second project, we are exploring 'The Digital Ecosystem'. This is an opportunity to use microcontrollers to manipulate or functionalize a physical product or experience. This will involve a back-and-forth process of setting up the hardware components and programming specific instructions in software. I am excited to explore this space as it is very new but seems to have a lot of interesting applications. Specifically, I would love to explore the IoT space and explore ways to add intelligence to ordinary physical products that can be responsive to human communication via voice, touch, or vision. 
 
 To begin, I set up my photon device by connecting it to my laptop. I followed the instructions provided to update the device and connect it to my home network. Next, I will look to get it connected to the Berkeley IoT ecosystem in order to work on the device on campus. See a few images of my process below. 
 
