@@ -1,3 +1,21 @@
+# Weekly Report #4 - Wrapping Project 1 
+
+## That's a Wrap!
+
+This week, I wrapped up Project 1. Last week, I showcased my final video to the class and recieved feedback on my design process and presentation. Overall, many classmates enjoyed the presentation and highlighted that I did well in communicating my entire process from inspiration to final concept. Primarily, my classmates hoped I could print the 3D model and compare the physical product to the outlined design specifications as there is a lot to learn when handing off from digital design to physical print. 
+
+I spent time over the weekend compiling my final report and adding a few speculations on how computational design could be relevant to industry with fast-changing customer needs. One example I mentioned was how it can be applied to the automotive industry. For example, consumers are growing to expect a responsive driving experience. It would be interesting to see cars thats physical components are more dynamic wherein they can optimize their position depending on the speed or mode of the car. 
+
+## Next on the Menu...
+
+For the second project, we are exploring 'The Digital Ecosystem'. This is an opportunity to use microcontrollers to manipulate or functionalize a physical product or experience. This will involve a back-and-forth process of setting up the hardware components and programming specific instructions in software. I am excited to explore this space as it is very new but seems to have a lot of interesting applications. Specifically, I would love to explore the IoT spcae and explore ways to add intelligence to ordinary physical products that can be responsive to human communication via voice, touch, or vision. 
+
+To begin, I set up my photon device by connecting it to my laptop. I followed the instructions provided to update the device and connect it to my home network. Next, I will look to get it connected to the Berkeley IoT ecosystem in order to work on the device on campus. See a few images of my process below. 
+
+
+
+
+
 # Weekly Report #3 - Building a 3D Toiletry Holder 
 
 FYI - check out my 3D printed stand which I forgot to share in the last update. 
