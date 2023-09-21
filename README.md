@@ -12,7 +12,9 @@ For the second project, we are exploring 'The Digital Ecosystem'. This is an opp
 
 To begin, I set up my photon device by connecting it to my laptop. I followed the instructions provided to update the device and connect it to my home network. Next, I will look to get it connected to the Berkeley IoT ecosystem in order to work on the device on campus. See a few images of my process below. 
 
+<img width="800" alt="photon microntroller update" src="https://github.com/Berkeley-MDes/tdf-fa23-ankurkela/blob/aac54315bf02843b6cc03fa38ce6886d9b75c28d/weekly-reports/IMG_8086.jpg">
 
+<img width="800" alt="digital ecosystem toolbox" src="https://github.com/Berkeley-MDes/tdf-fa23-ankurkela/blob/aac54315bf02843b6cc03fa38ce6886d9b75c28d/weekly-reports/IMG_8087.jpg">
 
 
 
