@@ -1,3 +1,29 @@
+# Weekly Report #5 - The TL;dr on Microcontrollers
+
+Mai-kro-kun-tro-lur-s. Basically, a tiny computer that can perform one task at a time. Sounds fancy but they are not too hard to wrap your head around.  
+
+The three main parts include: 
+* A CPU (central processing unit) that runs the whole operating system
+* Two different types of memory: RAM (for temporary data storage) and ROM (read only memory that reads program code)
+* Inputs / Outputs to connect different devices 
+
+Microcontrollers are primarily used for applications that relate to IoT (Internet of Things). For example, a smart security system uses microcontrollers to facilitate the process of vision sensors detecting motion and responding by triggering the alarm bell. 
+
+This week, I followed a few tutorials to perform some basic tasks on the microcontroller involving blinking lights. First, I simply set up my Photon to ensure that it securely connected to WiFi. Then, I borrowed some code from the tutorials provided online and ran a 'Hello World' code that prints Hello World a bunch of times on a Serial Debug Log. Next, I followed the blinking light tutorials to blink the internal LED (D7) on the photon device and an external LED by using a few wires and a resistor to prevent the LED from burning out.  
+
+## Identifying Project Topics 
+
+In class this week, we divided into groups to brainstorm potential concepts or solutions for the next project. Our group was asked to brainstorm solutions for 'Environment'. I led the facilitation and we begun by first identifying problems to explore. After individually jotting down ideas on sticky notes, we grouped the ideas into common themes and voted for three to move forward to the next stage. Then, we performed the same tasks for potential solutions and discussed further how they could involve a larger digital ecosystem. 
+
+Our final ideas: 
+* A personal head covering that could limit exposure to pollution when bad air quality was detected in the atmosphere
+* A smart survival kit to help faciliate the provision of basic necesseities in the case of an apocalyptic event
+* A feature on food packaging that could allow a user to discover the supply chain journey of an item as part of their purchasing consideration (aimed at increasing awareness around the food cycle and unsustainable processes).
+
+## Speculations 
+
+I am looking forward to applying this technology toolkit to create an ecosystem or process targeted at performing a specific task. When designing such a system, I believe it is very important to consider how you can create feedback interactions for the user to understand what the system is doing. For example, for any sensor that is built into a system, what types of indication can we provide to the user that 'sensing is happening' or 'something has been detected' that is intuitive and appropriate for the context and environment. This is why it is critical to design these solutions based on research from user pain points and to involve the user in the prototype process. 
+
 # Weekly Report #4 - Wrapping Project 1 
 
 ## That's a Wrap!
