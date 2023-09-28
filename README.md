@@ -11,6 +11,10 @@ Microcontrollers are primarily used for applications that relate to IoT (Interne
 
 This week, I followed a few tutorials to perform some basic tasks on the microcontroller involving blinking lights. First, I simply set up my Photon to ensure that it securely connected to WiFi. Then, I borrowed some code from the tutorials provided online and ran a 'Hello World' code that prints Hello World a bunch of times on a Serial Debug Log. Next, I followed the blinking light tutorials to blink the internal LED (D7) on the photon device and an external LED by using a few wires and a resistor to prevent the LED from burning out.  
 
+<img width="800" alt="hello world photon" src="https://github.com/Berkeley-MDes/tdf-fa23-ankurkela/blob/ddefef85ae89704411f71e65e9b9a509652dcb1f/weekly-reports/hello%20world.png">
+
+<img width="800" alt="blinking LED" src="https://github.com/Berkeley-MDes/tdf-fa23-ankurkela/blob/ddefef85ae89704411f71e65e9b9a509652dcb1f/weekly-reports/blinking_LED.jpg">
+
 ## Identifying Project Topics 
 
 In class this week, we divided into groups to brainstorm potential concepts or solutions for the next project. Our group was asked to brainstorm solutions for 'Environment'. I led the facilitation and we begun by first identifying problems to explore. After individually jotting down ideas on sticky notes, we grouped the ideas into common themes and voted for three to move forward to the next stage. Then, we performed the same tasks for potential solutions and discussed further how they could involve a larger digital ecosystem. 
@@ -19,6 +23,8 @@ Our final ideas:
 * A personal head covering that could limit exposure to pollution when bad air quality was detected in the atmosphere
 * A smart survival kit to help faciliate the provision of basic necesseities in the case of an apocalyptic event
 * A feature on food packaging that could allow a user to discover the supply chain journey of an item as part of their purchasing consideration (aimed at increasing awareness around the food cycle and unsustainable processes).
+
+<img width="800" alt="brainstorming problems" src="https://github.com/Berkeley-MDes/tdf-fa23-ankurkela/blob/ddefef85ae89704411f71e65e9b9a509652dcb1f/weekly-reports/white_board_brainstorm.jpg">
 
 ## Speculations 
 
