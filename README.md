@@ -1,3 +1,25 @@
+# Weekly Report #6 - The Origin Story of Wipey
+
+This week, we were assigned to groups for Project 2. Our group is working in the space of 'Clean Tech' with the goal to improve, simplify, or automate house cleaning chores. Our group decided that we wanted to focus on elevated surfaces, such as kitchen or bathroom counters, desks, etc. We met a few times to brainstorm potential ideas and technologies that we were interested in exploring. We decided to go forward with a "soft robotic"- like solution that could be flexible, maneuravable, and lightweight in order to adapt to different environments. 
+
+I do not know a lot about soft robotics, so I conducted some preliminary research and documented notes on the key characterisics. First, I discovered this Ted Talk called "The incredible potential of flexible, soft robotics" by a biomedical engineer Giada Gerboni (https://www.youtube.com/watch?v=AI7M-JTC6_w). 
+
+In her talk, Gerboni describes the existing problem with hard robots. Although they are designed to be highly precise and can perform specific tasks at scale, they are vulnerable to randomness and uncertainty in their environment. When deployed in the real world, hard robots often fail due to their rigidity and can pose safety concerns. The missing ingredient in hard robot design is that they do not posess 'embodied intelligence', that is the intelligence of their body and movements to adapt to any environment. Giada goes on to introduce and share examples of the growing discipline of soft robotics that aim to overcome challenges with hard robots. Often, soft robots use biomemetic principles to replicate the movements or behavior of actual organisms in the real world. Their applications have been seen in healthcare (to navigate complex surgical processes), accessing dexterous environments (for example, navigating a plumbing system, or a mining dig site). 
+
+In addition to watching the TED video, I explored a few other channels and websites to expand my understanding. Something interesting I came across which I believe can be something useful for our project was this idea of pneumatic pressure, which uses pressurized gas like compressed air to generate pressure which can translate to something like movement. In this specific example of someone who built a worm-like soft robot, they used pneumatic pressure to enable the worm's movement. 
+
+https://www.instructables.com/Inch-Worm-Soft-Robot/
+
+## Ideas and Constraints for Our Project 
+
+Our group decided to build a self-cleaning soft robot called 'Wipey' that can move under and around objects on elevated surfaces and collect finer particles (like dust, small hairs, food crumbs, etc). We are looking to equip Wipey with visual or touch sensors in order to navigate its environment and a cleaning material like microber that can either naturally clean. The most challengeing constraints we will need to solve for include: 
+
+* movement and interaction with objects (need to ensure it does not fall off the elevated surface or tip over an object)
+* pressure application on surfaces in order to effectively clean
+* portability and usability in order to easily remove cleaning fabric for washing and store in a safe and oragnized way
+
+This upcoming week, we will begin experimenting by tackling each one of these constraints from top to bottom. 
+
 # Weekly Report #5 - The TL;dr on Microcontrollers
 
 Mai-kro-kun-tro-lur-s. Basically, a tiny computer that can perform one task at a time. Sounds fancy but they are not too hard to wrap your head around.  
