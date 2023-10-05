@@ -10,6 +10,11 @@ In addition to watching the TED video, I explored a few other channels and websi
 
 https://www.instructables.com/Inch-Worm-Soft-Robot/
 
+<img width="800" alt="worm soft robot" src="https://github.com/Berkeley-MDes/tdf-fa23-ankurkela/blob/e3ae02d5a25fcf97bc710d3ee8622ac6e6540f06/weekly-reports/soft%20robot.jpeg">
+
+<img width="800" alt="pneumatic pressure robot anatomy" src="https://github.com/Berkeley-MDes/tdf-fa23-ankurkela/blob/e3ae02d5a25fcf97bc710d3ee8622ac6e6540f06/weekly-reports/pneumatic.webp">
+
+
 ## Ideas and Constraints for Our Project 
 
 Our group decided to build a self-cleaning soft robot called 'Wipey' that can move under and around objects on elevated surfaces and collect finer particles (like dust, small hairs, food crumbs, etc). We are looking to equip Wipey with visual or touch sensors in order to navigate its environment and a cleaning material like microber that can either naturally clean. The most challengeing constraints we will need to solve for include: 
@@ -19,6 +24,8 @@ Our group decided to build a self-cleaning soft robot called 'Wipey' that can mo
 * portability and usability in order to easily remove cleaning fabric for washing and store in a safe and oragnized way
 
 This upcoming week, we will begin experimenting by tackling each one of these constraints from top to bottom. 
+
+<img width="800" alt="wipey" src="https://github.com/Berkeley-MDes/tdf-fa23-ankurkela/blob/c325f753e3dcc1ced437314225faea1fd4965a71/weekly-reports/IMG_2056.png">
 
 # Weekly Report #5 - The TL;dr on Microcontrollers
 
