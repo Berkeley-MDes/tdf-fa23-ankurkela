@@ -1,3 +1,19 @@
+# Weekly Report #7 - BOO!
+
+Our idea made a full pivot this week. We thought we were going to build a small robot that would help clean contertops, and now we are building a hide and seek game with a mini ghost robot. Based on feedback from class in TDF, we learned that our original idea might have been too complex given that it required many unique functional capabilities. We were encouraged to simplify and start by experimenting with what the different sensors could do as we formed a new project idea. 
+
+We started with the Servo, which is a small motor that can rotate in different directions. Following one of the tutorials on GitHub, we learned how to use an accelerometer to control the servo motor. An accelerometer is a device that measures the vibration, or acceleration of motion, of a structure. We placed the accelerometer on our Photon and then oriented it in different directions to cause the motor to rotate simulatenously. 
+
+After following the tutorial, we sought to rotate the Servo continuously in response to a light sensor. We found another tutorial seperately online to setup continuous Servo rotation, and used a photo resistor light sensor to control the movement. Using code from a previous tutorial in class around lighting LEDs when the light sensor detected lightness or darkness, we manipulated the code such that the Servo motor moved when it detected lightness and stopped when detecting darkness. 
+
+In the spirit of Halooween, this functionality gave us the idea of creating a game with a mini ghost. Esentially, the ghost would have wheels (attached to a servo motor) and would also be holding a light sensor. When the ghost detected light, it would trigger the motor and the wheels would move until it arrived in a dark area. Effectively, the ghost would be "hiding in darkness". To bring in the user to this game, we brainstormed the idea of creating another device called a 'hunter' which would provide feedback to the user whether they were near or far from the ghost. 
+
+In order to do this, we started experimenting with distance sensors. The first one we started with was a 3V Ultrasonic Sensor which uses ultrasound to detect objects around its environment. The demo we built involved turning a LED light on or off based on whether the sensor detected some physical object within 10cm of its vicinity. We hope to expand this idea to get two specific objects to communicate their distance between each other and provide feedback to the hunter whether it is 'HOT' or 'COLD'. 
+
+We are still running mini experiments with understanding how each of these sensors work, but we hope to begin integrating these systems soon to simulate functional experiences. It's been fun and delightful to see feedback when something you design works as expected, and I am curious how we can continue to have fun with these ideas in the project. 
+
+
+
 # Weekly Report #6 - The Origin Story of Wipey
 
 This week, we were assigned to groups for Project 2. Our group is working in the space of 'Clean Tech' with the goal to improve, simplify, or automate house cleaning chores. Our group decided that we wanted to focus on elevated surfaces, such as kitchen or bathroom counters, desks, etc. We met a few times to brainstorm potential ideas and technologies that we were interested in exploring. We decided to go forward with a "soft robotic"- like solution that could be flexible, maneuravable, and lightweight in order to adapt to different environments. 
