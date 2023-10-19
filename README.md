@@ -18,6 +18,9 @@ Once we got the hardware sorted, we had to revisit the software. Given the new h
 
 See my edited code here - https://build.particle.io/build/652dd69301c674014a9a11b9
 
+See the video of both servos running in response to light sensor input - 
+[![Servo Simulation](https://youtube.com/shorts/oDPWbqIADOY?feature=share.jpg)](https://youtube.com/shorts/oDPWbqIADOY?feature=share)
+
 Simulatenously, Christine from my team was working on constructing the prototype for the ghost - identifying the body and the wheels that the servos would be connected to. She also did some research into OLED for us to use as part of the 'Hunter' object. Originally, we wanted to communicate distance coordinates between the two devices to create a 'HOT' and 'COLD' interaction when the hunter was either close or far from the ghost. In talking to Vidit and a design specialist, we learned location finding was not possible without hardware extensive processes. So we pivoted to prototype a communication interaction between the two devices. 
 
 In order to get two photon devices to talk to each other, we needed to first add both to the same team on Particle. Then, we reviewed online templates for the publish / subscribe feature on Particle and played around a few hours in code to try to get it to work. With help from LingXiu, we were able to successfully get the ghost to publish when it was moving or not moving, and the hunter would display the appropriate message, either "Ghost Detected" when moving or "Ghost Contained" when not moving. Using this new interaction, we pivoted our game to be one where your goal is to trap the ghost by placing a dark object over it to stop the movement. 
