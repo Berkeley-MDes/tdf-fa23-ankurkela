@@ -2,11 +2,15 @@
 
 I worked my butt off this week. 
 
+<img width="800" alt="no sleep" src="https://github.com/Berkeley-MDes/tdf-fa23-ankurkela/blob/be3cad72c87bb035ac8d8ec8705bcdc1aa216cde/weekly-reports/working.jpg">
+
 ## Not Enuf POWA!
 
 Since the last entry, our group came together to refine, debug, and resolve many features to complete our prototype for the final presentation. Our first major challenge was to run many servos simulatenously. For our ghost robot, we needed multiple servos in order for it to have enough motor power and balance for the structure to move across space. We attempted to connect multiple servos to the same power source, but noticed that things were going more wrong. Once we added the second wheel, the photoresistor began giving alternating values in a way that didn’t make sense with the level of light in the room. The second motor also didn’t move at all. And, The original motor would spin, then stop, then spin again. Our diagnosis was that it had something to do with the diverted power to the second motor. 
 
 How to get more power? We spoke with Jeff and Sudhu, and they recommended to add a Servo Featherwing Shield to our breadboard. The FeatherWing allows you to connect multiple servos that all will receive the same amount of power. In order to add the FeatherWing, we needed to learn how to sodder. After some demonstrations, I spent the next day in the makerspace soddering away and configuring our breadboard to its new setup to support multiple servos. In addition to a Servo FeatherWing, we also added a 5V Step-Up Voltage Regulator to convert the power from the USB / Battery and feed it directly to the FeatherWing's outlets.
+
+<img width="800" alt="servo featherwing setup" src="https://github.com/Berkeley-MDes/tdf-fa23-ankurkela/blob/be3cad72c87bb035ac8d8ec8705bcdc1aa216cde/weekly-reports/featherwing2.jpg">
 
 ## Coding Woes 
 
@@ -17,6 +21,8 @@ See my edited code here - https://build.particle.io/build/652dd69301c674014a9a11
 Simulatenously, Christine from my team was working on constructing the prototype for the ghost - identifying the body and the wheels that the servos would be connected to. She also did some research into OLED for us to use as part of the 'Hunter' object. Originally, we wanted to communicate distance coordinates between the two devices to create a 'HOT' and 'COLD' interaction when the hunter was either close or far from the ghost. In talking to Vidit and a design specialist, we learned location finding was not possible without hardware extensive processes. So we pivoted to prototype a communication interaction between the two devices. 
 
 In order to get two photon devices to talk to each other, we needed to first add both to the same team on Particle. Then, we reviewed online templates for the publish / subscribe feature on Particle and played around a few hours in code to try to get it to work. With help from LingXiu, we were able to successfully get the ghost to publish when it was moving or not moving, and the hunter would display the appropriate message, either "Ghost Detected" when moving or "Ghost Contained" when not moving. Using this new interaction, we pivoted our game to be one where your goal is to trap the ghost by placing a dark object over it to stop the movement. 
+
+<img width="800" alt="OLED display" src="https://github.com/Berkeley-MDes/tdf-fa23-ankurkela/blob/d7801bfa3176cafaa2631f419229150db8722a84/weekly-reports/ghost%20detected.png">
 
 
 ## Speculations - How Can We Make Coding Easier? 
