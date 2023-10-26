@@ -14,7 +14,7 @@ After adding all the content from the Github and providing a simple instruction,
 
 I decided to add an instruction to have the model talk like me, including tone, common words I use, and even emojis! The result was hilarious and a little too on the nose. I became a little self-consious of the fact that I sound like a frat boy and decided to scale it back a bit. 
 
-<img width="800" alt="conversationalAI2" src="https://github.com/Berkeley-MDes/tdf-fa23-ankurkela/blob/74c41180025e0d1acb122ea460ad9808fe60cb4b/weekly-reports/conversationalAI2.png">
+<img width="800" alt="conversationalAI2" src="https://github.com/Berkeley-MDes/tdf-fa23-ankurkela/blob/73612a901411d6676f1f5aa72b28cfe5c2ed2ccf/weekly-reports/conversationalAI4.png">
 
 I realized the model was not doing a great job of summarizing my project responses, and I realized that it could be due to the fact that there wasn't one specific knowledge chunk that included an overall summary of the projects I worked on in this class. Since I felt like that could be relevant to any question, I decided to add short summaries to my main instruction so that it could always reference my main work in the class. This turned out to be a great addition as I felt the responses were much more comprehensive. 
 
