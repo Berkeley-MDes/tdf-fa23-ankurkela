@@ -6,11 +6,19 @@ This week, we moved on to another project that focuses on fine-tuning large lang
 
 After following along a live demo of the ZeroWidth platform, I began to build the necessary components for training my model to answer questions related to my work in this class. In ZeroWidth, you can train your model using Instructions and Knowledge Chunks. Instructions are where you provide large-sweeping summaries on what you want your conversational AI to do, how you want it to talk, and where to pull detailed information from. In Knowledge chunks, you can host most of your content. Initially, I copied over my entire GitHub report to an Instruction but learned that this can lead to issues due to token limits. To prevent the model from running out of content to reference, it is smarter to host specific content in Knowledge chunks where a chunk is only called when it is relevant to the question. It performs this method through the process of identifying similar vectors, that is identifying matching key words in similar contexts. 
 
+<img width="800" alt="knowledge chunks" src="https://github.com/Berkeley-MDes/tdf-fa23-ankurkela/blob/74c41180025e0d1acb122ea460ad9808fe60cb4b/weekly-reports/Screen%20Shot%202023-10-26%20at%202.16.30%20PM.png">
+
 After adding all the content from the Github and providing a simple instruction, I tested the conversational AI. It provided formal responses and captured most of my work, but it felt like it was just copy / pasting from my report and was not making its own connections or conclusions. I also did not love the tone as it felt a little presentational, and less conversational. 
+
+<img width="800" alt="conversationalAI1" src="https://github.com/Berkeley-MDes/tdf-fa23-ankurkela/blob/74c41180025e0d1acb122ea460ad9808fe60cb4b/weekly-reports/conversationalAI1.png">
 
 I decided to add an instruction to have the model talk like me, including tone, common words I use, and even emojis! The result was hilarious and a little too on the nose. I became a little self-consious of the fact that I sound like a frat boy and decided to scale it back a bit. 
 
+<img width="800" alt="conversationalAI2" src="https://github.com/Berkeley-MDes/tdf-fa23-ankurkela/blob/74c41180025e0d1acb122ea460ad9808fe60cb4b/weekly-reports/conversationalAI2.png">
+
 I realized the model was not doing a great job of summarizing my project responses, and I realized that it could be due to the fact that there wasn't one specific knowledge chunk that included an overall summary of the projects I worked on in this class. Since I felt like that could be relevant to any question, I decided to add short summaries to my main instruction so that it could always reference my main work in the class. This turned out to be a great addition as I felt the responses were much more comprehensive. 
+
+<img width="800" alt="conversationalAI3" src="https://github.com/Berkeley-MDes/tdf-fa23-ankurkela/blob/74c41180025e0d1acb122ea460ad9808fe60cb4b/weekly-reports/conversationalAI3.png">
 
 ## Next Steps
 
