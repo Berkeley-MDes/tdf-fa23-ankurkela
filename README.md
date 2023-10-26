@@ -1,4 +1,24 @@
-# Weekly Report #8 - Mamma Mia, what a week :') 
+# Weekly Report #9 - My new hype man 😤
+
+This week, we moved on to another project that focuses on fine-tuning large language models. We got access to an AI platform called ZeroWidth that connects to foundational models like GPT and Google Bard, and allows to configure the model by adding specific instructions and knowledge chunks so that the model can respond to questions relevant to your specific use case. The power of fine-tuning models is to develop LLMs for specific use cases. For example, if you are a company that is looking to develop a customer service AI, you can fine tune an LLM to be trained on the customer service manual and instruct it to only provide advice or answer questions related to that content sphere. This reduces the risk of hallucinations and improves the specificity at how the LLM should be interacting with a specific audience. 
+
+## Building a Mini Me 👨🏾
+
+After following along a live demo of the ZeroWidth platform, I began to build the necessary components for training my model to answer questions related to my work in this class. In ZeroWidth, you can train your model using Instructions and Knowledge Chunks. Instructions are where you provide large-sweeping summaries on what you want your conversational AI to do, how you want it to talk, and where to pull detailed information from. In Knowledge chunks, you can host most of your content. Initially, I copied over my entire GitHub report to an Instruction but learned that this can lead to issues due to token limits. To prevent the model from running out of content to reference, it is smarter to host specific content in Knowledge chunks where a chunk is only called when it is relevant to the question. It performs this method through the process of identifying similar vectors, that is identifying matching key words in similar contexts. 
+
+After adding all the content from the Github and providing a simple instruction, I tested the conversational AI. It provided formal responses and captured most of my work, but it felt like it was just copy / pasting from my report and was not making its own connections or conclusions. I also did not love the tone as it felt a little presentational, and less conversational. 
+
+I decided to add an instruction to have the model talk like me, including tone, common words I use, and even emojis! The result was hilarious and a little too on the nose. I became a little self-consious of the fact that I sound like a frat boy and decided to scale it back a bit. 
+
+I realized the model was not doing a great job of summarizing my project responses, and I realized that it could be due to the fact that there wasn't one specific knowledge chunk that included an overall summary of the projects I worked on in this class. Since I felt like that could be relevant to any question, I decided to add short summaries to my main instruction so that it could always reference my main work in the class. This turned out to be a great addition as I felt the responses were much more comprehensive. 
+
+## Next Steps
+
+Building on this model, my goal is to use this as a potential portfolio piece for anyone who is interested in learning more about my projects, deliverables, thinking process, and speculations. Thus, in addition to including information on TDF, I hope to also equip the model with an understanding of who I am and what my interests are. I'm thinking to include information like my previous work experience, my other projects, and my aspirations in terms of domains of work I'm interested in. I can pull this information from LinkedIn and my portfolio. That way, anyone can ask any questions to learn a little more about me.  
+
+
+
+ # Weekly Report #8 - Mamma Mia, what a week :') 
 
 I worked my butt off this week. 
 
