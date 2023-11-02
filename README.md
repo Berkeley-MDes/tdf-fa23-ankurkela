@@ -1,3 +1,22 @@
+# Weekly Report #10 - 
+
+Okkkkkk, what did we get upto this week? 
+
+Well, I spent some time tinkering with my LLM and changed a few parameters to get it to perform how I hoped. I played around with the retrieval method and temperature. I decided to use an agentic method, which tasks another LLM to review the conversation and identify better search strings, to produce more contextual responses. And, utilized a low temperature which fit my specific use case where I didn’t want the model to run freely with creative expression but so to speak “stick to the script”.  
+
+In addition, I noticed that I did not like the tone in which the model was speaking so I simplified the instructions to talk in a "straightforward and casual" tone. Before, I was providing keywords and emojis to use, but I felt that it used those excessively and the tone sounded a little too artificial. Even when I instructed the model to use keywords and emojis sparingly, it would still continue to overcompensate. 
+
+After tinkering and testing my model, it was time to create a video for my final presentation. I sought inspiration from Peter's (co-founder of ZeroWidth) video on his homepage and had some fun recreating some of his nonchalant casual presentation of his business. I had to get creative and was able to get something pretty close to what I hoped. 
+
+
+## Speculations and Ethical Considerations
+
+With more time, I would train the model to assess my credentials through conversation, replacing the need for someone to check my resume or Linkedin. It would be cool to integrate APIs too for easy scheduling of meetings through Google Calendar or Calendly. 
+
+This technology could automate mundane tasks, and integrate with code and APIs to improve efficiency and user friendliness. However, there’s a risk of misinformation with poorly trained models and a lack of transparency with complex systems (where multiple LLMs are involved). Ethical and intentional design is crucial for LLMs to effectively aid users while preserving their user autonomy. ‘Till next time.
+
+
+
 # Weekly Report #9 - My new hype man 😤
 
 This week, we moved on to another project that focuses on fine-tuning large language models. We got access to an AI platform called ZeroWidth that connects to foundational models like GPT and Google Bard, and allows to configure the model by adding specific instructions and knowledge chunks so that the model can respond to questions relevant to your specific use case. The power of fine-tuning models is to develop LLMs for specific use cases. For example, if you are a company that is looking to develop a customer service AI, you can fine tune an LLM to be trained on the customer service manual and instruct it to only provide advice or answer questions related to that content sphere. This reduces the risk of hallucinations and improves the specificity at how the LLM should be interacting with a specific audience. 
