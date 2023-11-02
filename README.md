@@ -6,7 +6,9 @@ Well, I spent some time tinkering with my LLM and changed a few parameters to ge
 
 In addition, I noticed that I did not like the tone in which the model was speaking so I simplified the instructions to talk in a "straightforward and casual" tone. Before, I was providing keywords and emojis to use, but I felt that it used those excessively and the tone sounded a little too artificial. Even when I instructed the model to use keywords and emojis sparingly, it would still continue to overcompensate. 
 
-After tinkering and testing my model, it was time to create a video for my final presentation. I sought inspiration from Peter's (co-founder of ZeroWidth) video on his homepage and had some fun recreating some of his nonchalant casual presentation of his business. I had to get creative and was able to get something pretty close to what I hoped. 
+After tinkering and testing my model, it was time to create a video for my final presentation. I sought inspiration from Peter's (co-founder of ZeroWidth) video on his homepage and had some fun recreating some of his nonchalant casual presentation of his business. I had to get creative and was able to get something pretty close to what I hoped. See some B-roll below. 
+
+<img width="800" alt="b footage recording video" src="https://github.com/Berkeley-MDes/tdf-fa23-ankurkela/blob/ae1c1681e80fa6146a5d446305d2f2a7c12eafac/weekly-reports/IMG_8427.jpg">
 
 
 ## Speculations and Ethical Considerations
