@@ -10,6 +10,9 @@ This week in class we were visited by a hardware specialist and designer, Mohit 
 
 See my first draft of my concpet poster below: 
 
+<img width="800" alt="concept poster" src="https://github.com/Berkeley-MDes/tdf-fa23-ankurkela/blob/f0965588fe42884fee004b38612366d40c897c71/weekly-reports/A4%20-%201.png">
+
+
 
 
 # Weekly Report #10 - My boy needs some tunin' 🛠️
