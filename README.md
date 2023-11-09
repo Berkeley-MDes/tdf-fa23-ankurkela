@@ -10,6 +10,8 @@ This week in class we were visited by a hardware specialist and designer, Mohit 
 
 <img width="800" alt="hardware demo" src="https://github.com/Berkeley-MDes/tdf-fa23-ankurkela/blob/1bb69f62def953f5cb1f44a677126bd929aac090/weekly-reports/IMG_8460.jpg">
 
+[![Playful Hardware Demo](https://youtube.com/shorts/Vqrujy3l5jA?feature=share.jpg)](https://youtube.com/shorts/Vqrujy3l5jA?feature=share)
+
 See my first draft of my concpet poster below: 
 
 <img width="800" alt="concept poster" src="https://github.com/Berkeley-MDes/tdf-fa23-ankurkela/blob/f0965588fe42884fee004b38612366d40c897c71/weekly-reports/A4%20-%201.png">
