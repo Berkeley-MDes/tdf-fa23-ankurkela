@@ -1,3 +1,17 @@
+# Weekly Report #11 - 
+
+After wrapping our project on fine tuning large language models, we are moving on to the final project of the semester. This project involves either continuing to build on any of the other projects in the semester or using the skills we've learned to start a new project. I decided to do something new. I will be exploring creating a recording device for self-reflection. My primary motivation for this project is based on my own personal challenges with self reflecting on a consistent basis, especially as it relates to my well-being and awareness of the different emotions and feelings I experience in a day. 
+
+I began by exploring my concept and talking to some peers to gather their feedback to help build on the idea. So far, I've put together a high-level concept exploration including a short summary, the experiments I need to run (including testing of hardware, software, and data management), a list of materials, and a timeline with milestones. I hope to get some feedback from the instructor team on the feasability of my idea and refine the concept poster. 
+
+An interesting article I came across in my research was a project conducted my MIT Media Lab on developing a piece of intelligent head glasses that could detect a lack of attention. The goal of the project was to provide haptic feedback through the form of sound and vibration in response to a detected drop in attention using EEG sensors that detect neural activity in the brain. I enjoyed the project's exploration into non-visual feedback, and that's inspired me to incorporate something similar in my own project as digital screens can take away from your immediate experience. 
+
+This week in class we were visited by a hardware specialist and designer, Mohit Bhoite, who shared some fascinating prototypes he developed with electronics and microcontrollers. I really enjoyed how his prototypes were very intuitive and incorporated a sense of play, like the example below. I reached out to him to schedule a brief conversation to get feedback on my project. I'm hoping he can help me explore potential sensors and interactions to explore in accomplishing my goal. 
+
+See my first draft of my concpet poster below: 
+
+
+
 # Weekly Report #10 - My boy needs some tunin' 🛠️
 
 Okkkkkk, what did we get upto this week? 
