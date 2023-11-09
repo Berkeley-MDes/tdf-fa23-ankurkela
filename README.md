@@ -8,6 +8,8 @@ An interesting article I came across in my research was a project conducted my M
 
 This week in class we were visited by a hardware specialist and designer, Mohit Bhoite, who shared some fascinating prototypes he developed with electronics and microcontrollers. I really enjoyed how his prototypes were very intuitive and incorporated a sense of play, like the example below. I reached out to him to schedule a brief conversation to get feedback on my project. I'm hoping he can help me explore potential sensors and interactions to explore in accomplishing my goal. 
 
+<img width="800" alt="hardware demo" src="https://github.com/Berkeley-MDes/tdf-fa23-ankurkela/blob/1bb69f62def953f5cb1f44a677126bd929aac090/weekly-reports/IMG_8460.jpg">
+
 See my first draft of my concpet poster below: 
 
 <img width="800" alt="concept poster" src="https://github.com/Berkeley-MDes/tdf-fa23-ankurkela/blob/f0965588fe42884fee004b38612366d40c897c71/weekly-reports/A4%20-%201.png">
