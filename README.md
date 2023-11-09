@@ -1,4 +1,4 @@
-# Weekly Report #11 - 
+# Weekly Report #11 - The Beginning of the End 
 
 After wrapping our project on fine tuning large language models, we are moving on to the final project of the semester. This project involves either continuing to build on any of the other projects in the semester or using the skills we've learned to start a new project. I decided to do something new. I will be exploring creating a recording device for self-reflection. My primary motivation for this project is based on my own personal challenges with self reflecting on a consistent basis, especially as it relates to my well-being and awareness of the different emotions and feelings I experience in a day. 
 
